@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Guess-React/static/css/main.7ab36ebb.css",
+    "main.js": "/Guess-React/static/js/main.13378a3a.js",
+    "static/js/453.17882521.chunk.js": "/Guess-React/static/js/453.17882521.chunk.js",
+    "index.html": "/Guess-React/index.html",
+    "main.7ab36ebb.css.map": "/Guess-React/static/css/main.7ab36ebb.css.map",
+    "main.13378a3a.js.map": "/Guess-React/static/js/main.13378a3a.js.map",
+    "453.17882521.chunk.js.map": "/Guess-React/static/js/453.17882521.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ab36ebb.css",
+    "static/js/main.13378a3a.js"
+  ]
+}
