@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <div className = "container">
         <div className = "header">
-          <label>Guess the number 1 to 10</label>
+          <label>Guess the number from 1 to 10</label>
         </div>
         <input id = "term" type = "text" name = "term" onChange={handleChange}/>
         <Result term = {term} num = {num}/>
