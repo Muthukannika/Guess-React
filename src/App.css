@@ -36,3 +36,68 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  color : plum;
+  display : flex;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(255, 230, 255);
+}
+
+.container{
+  background-color: white;
+  border-radius : 30px;
+  width : 500px;
+  display : flex;
+  flex-direction: column;
+  padding : 10px;
+  margin-top: 200px;
+  font-weight: 200;
+}
+.header{
+  color : purple;
+  text-align : center;
+  font-size : 30px;
+  font-weight: 200;
+  font-family: sans-serif;
+}
+input{
+  border : 1px solid plum;
+  margin-top : 10px;
+  height: 10px;
+  padding : 10px;
+  border-radius : 20px;
+  margin-bottom: 20px;
+}
+/* input:hover{
+  background-color: rgb(227, 250, 227);
+} */
+input:focus{
+  background-color: white;
+  border : none;
+}
+label{
+  font-weight: 600;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+button{
+  border-radius: 20px;
+  height: 30px;
+  border : none;
+  font-weight: 600;
+  color : purple;
+  background-color: rgb(243, 208, 243);
+}
+button:hover{
+  background-color: plum;
+  color : white;
+  border : 1px solid plum;
+}
+p{
+  font-weight: 200;
+  font-family: cursive;
+  color : blueviolet;
+}
